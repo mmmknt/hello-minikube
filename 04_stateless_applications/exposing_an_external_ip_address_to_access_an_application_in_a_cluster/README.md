@@ -1,4 +1,6 @@
 # exposing an external ip address to access an application in a cluster
+https://kubernetes.io/docs/tutorials/stateless-application/expose-external-ip-address/
+
 ## prepair
 `gcloud container clusters create expose-external-ip-address`
 `gcloud container clusters get-credentials expose-external-ip-address`
