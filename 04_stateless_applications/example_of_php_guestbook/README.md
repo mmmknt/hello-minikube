@@ -46,3 +46,5 @@
 `kubectl delete deployment -l app=guestbook`
 `kubectl delete service -l app=guestbook`
 `kubectl get pods`
+`minikube stop`
+`minikube delete`
